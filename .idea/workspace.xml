@@ -21,7 +21,14 @@
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_install_7.4" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_install_7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1tICuz86QP0PSMWYAeOMJXC8sUd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -80,6 +87,7 @@
       <workItem from="1622447443627" duration="31129000" />
       <workItem from="1622486950539" duration="263000" />
       <workItem from="1622487698533" duration="28322000" />
+      <workItem from="1622557000550" duration="512000" />
     </task>
     <servers />
   </component>
@@ -115,10 +123,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="254" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1622550713382" />
-    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1622473166317">
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1622557126274">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1622473166317" />
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1622557126274" />
     <state x="604" y="356" key="NewPhpFileDialog" timestamp="1622553166494">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
