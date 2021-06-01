@@ -1,0 +1,13 @@
+{
+    "name": "anitatudor/e_meet",
+    "description": "PHP based web app for organizing online meetings.",
+    "authors": [
+        {
+            "name": "Anita Tudor Alexandru",
+            "email": "tudoranita1054@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-mysqli": "*"
+    }
+}

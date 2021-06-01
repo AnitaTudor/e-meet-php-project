@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d19024df-a8e3-4bd2-b8a5-a9451b7ff26d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_install_7.4" />
+  <component name="ProjectId" id="1tICuz86QP0PSMWYAeOMJXC8sUd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\tudor\232_SEM2\Project_PHP\css" />
+      <recent name="E:\tudor\232_SEM2\Project_PHP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.my-account.php">
+    <configuration name="config.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/config.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/login.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="my-account.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/my-account.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="signup.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/signup.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.my-account.php" />
+        <item itemvalue="PHP Script.login.php" />
+        <item itemvalue="PHP Script.signup.php" />
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHP Script.config.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d19024df-a8e3-4bd2-b8a5-a9451b7ff26d" name="Default Changelist" comment="" />
+      <created>1622447442541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622447442541</updated>
+      <workItem from="1622447443627" duration="31129000" />
+      <workItem from="1622486950539" duration="263000" />
+      <workItem from="1622487698533" duration="28322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="87" key="#CLI_Interpreters" timestamp="1622457574357">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="348" y="87" key="#CLI_Interpreters/0.0.1536.864@0.0.1536.864" timestamp="1622457574357" />
+    <state x="475" y="75" key="#PHP" timestamp="1622449879511">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="475" y="75" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1622449879511" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622473138544">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1622473138544" />
+    <state width="1493" height="254" key="GridCell.Tab.0.bottom" timestamp="1622550713382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1622550713382" />
+    <state width="1493" height="254" key="GridCell.Tab.0.center" timestamp="1622550713382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1622550713382" />
+    <state width="1493" height="254" key="GridCell.Tab.0.left" timestamp="1622550713382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1622550713382" />
+    <state width="1493" height="254" key="GridCell.Tab.0.right" timestamp="1622550713382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1622550713382" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1622473166317">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1622473166317" />
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1622553166494">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1622553166494" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1622457576985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1622457576985" />
+    <state x="566" y="253" width="403" height="354" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1622495184336">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="566" y="253" width="403" height="354" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.864@0.0.1536.864" timestamp="1622495184336" />
+    <state x="598" y="262" width="464" height="453" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1622555633304">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="598" y="262" width="464" height="453" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1622555633304" />
+  </component>
+</project>

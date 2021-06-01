@@ -1,0 +1,2 @@
+[31-May-2021 18:36:06 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in E:\tudor\232_SEM2\Project_PHP\src\config.php on line 14
+[31-May-2021 18:36:06 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in E:\tudor\232_SEM2\Project_PHP\src\config.php on line 14
